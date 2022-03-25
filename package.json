@@ -13,6 +13,6 @@
   "author": "ashlin innis",
   "license": "ISC",
   "dependencies": {
-    "electron": "^5.0.7"
+    "electron": "^13.6.6"
   }
 }
